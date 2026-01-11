@@ -13,7 +13,7 @@
 I am a self-taught python developer, but I am also learning other languages now. I specialize in writing discord bots and managing code. 
 
 >[!NOTE]
-> Feel free to dm me anytime my discord is **`OseSem`**.
+> Feel free to dm me anytime my discord is **`palletsjinja`**.
 
 <!--
 **palletsjinja/palletsjinja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
